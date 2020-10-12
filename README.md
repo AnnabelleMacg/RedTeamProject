@@ -2,8 +2,6 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(Diagrams/Red-Team-Topology.png)
-
 ![alt text](https://github.com/AnnabelleMacg/RedTeamProject/blob/main/Diagrams/Red-Team-Topology.png "Red-Team-Topology-Map")
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YML files may be used to install only certain pieces of it, such as Filebeat.
@@ -65,7 +63,8 @@ The playbook implements the following tasks:
 - Download and launch a docker container
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-(Images/DockerPs.png)
+![alt text](https://github.com/AnnabelleMacg/RedTeamProject/blob/main/Images/DockerPs.png "Docker-PS")
+
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
