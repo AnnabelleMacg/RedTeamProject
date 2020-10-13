@@ -90,3 +90,11 @@ SSH into the control node and follow the steps below:
 - Copy the playbook file to the Ansible Control Node
 - Update the host file to include the webservers 
 - Run the playbook, and navigate to Kibana to check that the installation worked as expected
+
+Example of successful Filebeat installation:
+
+![alt text](https://github.com/AnnabelleMacg/RedTeamProject/blob/main/Images/Filebeat.png "Filebeat")
+
+Kibana dashboard:
+
+![alt text](https://github.com/AnnabelleMacg/RedTeamProject/blob/main/Images/Kibana.png "Kibana")
