@@ -1,12 +1,12 @@
 ## A High Stakes Investigation - Terminal and Bash activity 
 
-The files in this repository were used to conduct an investigation on 'Lucky Duck Casino' - after it lost a signifficant amount of money on its roulette tables.
+The files in this repository were used to conduct an investigation on 'Lucky Duck Casino' - after it lost a significant amount of money on its roulette tables.
 
 This activity was completed as part of my university studies.
 
 ### Downloading the data 
 
-Using the wget command, I downloaded files that were provided to us by Lucky Duck Cassino, including;
+Using the wget command, I downloaded files that were provided to us by Lucky Duck Casino, including;
 - Dealer schedules
 - Win/loss player data from the roulette tables during the week where losses occured 
 
