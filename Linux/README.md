@@ -13,9 +13,11 @@ Using the wget command, I downloaded files that were provided to us by Lucky Duc
 Samples of this data are outlined in the images below:
 
 Dealer schedule:
+
 ![alt text](https://github.com/AnnabelleMacg/RedTeamProject/blob/main/Linux/Images/Dealer%20Analysis.png "Dealer schedule")
 
 Win/loss player data:
+
 ![alt text](https://github.com/AnnabelleMacg/RedTeamProject/blob/main/Linux/Images/Player%20Analysis.png "Win/Loss player data")
 
 ### Gathering and correlating the evidence 
